@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+label {
+  margin-top: 10px;
+  display: block;
+}
+
+#postIdInput {
+  margin-bottom: 10px;
+}
+
+#searchBtn {
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#searchBtn:hover {
+  background-color: #45a049;
+}
+
+#postContainer {
+  margin-top: 20px;
+}
+
+.main__container {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin: 5px 0;
+}
+.error-message {
+  font-size: 16px;
+  text-align: center;
+}
+
+p.comment {
+  background-color: #f2f2f2;
+  padding: 5px;
+}
